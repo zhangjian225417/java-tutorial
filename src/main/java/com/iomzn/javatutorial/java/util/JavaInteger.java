@@ -1,4 +1,4 @@
-package com.iomzn.java.util;
+package com.iomzn.javatutorial.java.util;
 
 public class JavaInteger {
 

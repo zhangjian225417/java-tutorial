@@ -1,4 +1,4 @@
-package com.iomzn.java.time;
+package com.iomzn.javatutorial.java.time;
 
 import java.time.Clock;
 import java.time.Instant;

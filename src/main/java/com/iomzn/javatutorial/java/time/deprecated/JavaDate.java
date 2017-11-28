@@ -1,4 +1,4 @@
-package com.iomzn.java.time.deprecated;
+package com.iomzn.javatutorial.java.time.deprecated;
 
 import java.time.Instant;
 import java.util.Date;

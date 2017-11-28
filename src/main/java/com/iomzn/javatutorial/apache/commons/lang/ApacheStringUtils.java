@@ -1,4 +1,4 @@
-package com.iomzn.apache.commons.lang;
+package com.iomzn.javatutorial.apache.commons.lang;
 
 import org.apache.commons.lang3.StringUtils;
 
